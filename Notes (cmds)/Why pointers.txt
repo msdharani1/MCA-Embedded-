@@ -1,0 +1,3 @@
+Why pointers?
+1. outside world access anything we want a pointers. (ie. printers, monitors and others).
+2. Heap memory allocation we use a pointers.

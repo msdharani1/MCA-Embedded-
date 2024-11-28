@@ -1,0 +1,9 @@
+pwd --- work for current directory
+mkdir --- create a folder or directory
+rm -rf filename ---- remove a files
+rm -rd dir_name ---- remove a dir
+touch --- create a new file.
+cd ls --- list out the information such files, folders and others
+cd ../ ----- previous folder move
+cd filename/folderName ---- move the present file
+cd / ------ go to the main path
